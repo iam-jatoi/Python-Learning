@@ -77,6 +77,8 @@ num2: int = 10
 print(num1 > num2)
 
 
+
+
 #Logical Operators
 #Three types of logical operator
 #and , on, not (These are operators)
