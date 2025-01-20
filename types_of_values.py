@@ -1,4 +1,3 @@
-#This is My Assignment 
 
 name="Abdul Jabbar"
 Age=34
